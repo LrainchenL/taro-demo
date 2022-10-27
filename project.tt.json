@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "family-doctor",
+  "description": "家庭医生小程序 taro+vue3+nutui",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

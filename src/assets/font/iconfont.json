@@ -1,0 +1,51 @@
+{
+  "id": "3715140",
+  "name": "familydoctor",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "家庭医生",
+  "glyphs": [
+    {
+      "icon_id": "1160139",
+      "name": "female",
+      "font_class": "female",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "1160171",
+      "name": "male",
+      "font_class": "male",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "4936668",
+      "name": "eye-fill",
+      "font_class": "eye-fill",
+      "unicode": "e869",
+      "unicode_decimal": 59497
+    },
+    {
+      "icon_id": "4765896",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin-fill",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8288886",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e856",
+      "unicode_decimal": 59478
+    }
+  ]
+}
